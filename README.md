@@ -1,11 +1,11 @@
 # Book Search Engine
 
 ## Description
-This application uses the google books API to provide a search engine for books.  Using graphql and mongoose, a user is able to sign in and save their own list of books. Currently a user is able to login, sign up and add books to their favorites.  Viewing books is currently non-functional but will be fixed.
+This application uses the google books API to provide a search engine for books.  Using graphql and mongoose, a user is able to sign in and save their own list of books. Currently a user is able to login, sign up and add books to their favorites.  Viewing books is currently non-functional but will be fixed. The site itself is built using react and run on a server using node-js and express-js 
 
 The code was originally written using a RESTful API instead of graphql, but has been refactored to use the latter.
 
-The site will be hosted at https://desolate-escarpment-45756.herokuapp.com/ but has not yet been 
+The site will be hosted at https://desolate-escarpment-45756.herokuapp.com/ but has not yet been published.
 
 ## Table of Contents
  - [Description](#description)
